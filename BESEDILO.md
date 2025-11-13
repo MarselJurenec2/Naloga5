@@ -2,7 +2,7 @@
 Hey, my name is Marsel, I'm extremely unhappy.
 Git je orodje, ki omogoča **sledenje spremembam** v datotekah in učinkovito **sodelovanje v skupinah**.  
 Nastal je leta 2005, ko ga je Linus Torvalds razvil za upravljanje izvorne kode Linux jedra. I'm straight linuxing it. 
-Od takrat se je Git razširil in postal **standard** v svetu razvoja programske opreme. MY NAME IS ANDRIJA AND I HATE VAGUE WORDING ON QUESTIONS THAT TEND TO BE ON MIDTERMS. LANGUAGE IS A CURSE.
+Yeah, I said it. I'm straight up schizoing it. Od takrat se je Git razširil in postal **standard** v svetu razvoja programske opreme. MY NAME IS ANDRIJA AND I HATE VAGUE WORDING ON QUESTIONS THAT TEND TO BE ON MIDTERMS. LANGUAGE IS A CURSE.
 
 Git omogoča, da vsak razvijalec dela **lokalno** na svojem repozitoriju, nato pa spremembe deli z drugimi preko **oddaljenega repozitorija** (npr. GitHub, GitLab ali Bitbucket).  
 S tem se zmanjša možnost konfliktov in izgube podatkov.
