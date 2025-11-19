@@ -1,5 +1,5 @@
-g<<<<<<< HEAD
-=======
+HEAD
+
 # Uvod v Git
 
 Git je orodje, ki omogoča **sledenje spremembam** v datotekah in učinkovito **sodelovanje v skupinah**.  
@@ -7,7 +7,17 @@ Nastal je leta 2005, ko ga je Linus Torvalds razvil za upravljanje izvorne kode 
 Od takrat se je Git razširil in postal **standard** v svetu razvoja programske opreme. MY NAME IS ANDRIJA AND I HATE VAGUE WORDING ON QUESTIONS THAT TEND TO BE ON MIDTERMS. LANGUAGE IS A CURSE.
 
 Git omogoča, da vsak razvijalec dela **lokalno** na svojem repozitoriju, nato pa spremembe deli z drugimi preko **oddaljenega repozitorija** (npr. GitHub, GitLab ali Bitbucket).  
-S tem se zmanjša možnost konfliktov in izgube podatkov. Serbus
+S tem se zmanjša možnost konfliktov in izgube podatkov. Serbu
+
+# Uvod v Git
+Hey, my name is Marsel, I'm extremely unhappy.
+Git je orodje, ki omogoča **sledenje spremembam** v datotekah in učinkovito **sodelovanje v skupinah**.  
+Nastal je leta 2005, ko ga je Linus Torvalds razvil za upravljanje izvorne kode Linux jedra. I'm straight linuxing it. 
+Od takrat se je Git razširil in postal **standard** v svetu razvoja programske opreme. MY NAME IS ANDRIJA AND I HATE VAGUE WORDING ON QUESTIONS THAT TEND TO BE ON MIDTERMS. LANGUAGE IS A CURSE.
+
+Git omogoča, da vsak razvijalec dela **lokalno** na svojem repozitoriju, nato pa spremembe deli z drugimi preko **oddaljenega repozitorija** (npr. GitHub, GitLab ali Bitbucket).  
+S tem se zmanjša možnost konfliktov in izgube podatkov.
+a8a3eba17a8a21f5060d6d9622e2f82a68da8f96
 
 
 ## Glavne značilnosti
@@ -34,3 +44,7 @@ S tem se zmanjša možnost konfliktov in izgube podatkov. Serbus
 | `git merge <veja>` | Združi določeno vejo z trenutno |
 | `git log` | Prikaže zgodovino commitov |
 
+HEAD
+
+
+a8a3eba17a8a21f5060d6d9622e2f82a68da8f96
